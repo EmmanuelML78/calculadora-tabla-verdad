@@ -1,0 +1,30 @@
+body {
+  margin: 0 auto;
+  height: 100vh;
+}
+
+.flex {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  align-content: center;
+  padding: 50px;
+  margin: 50 0px;
+  clear: both;
+}
+
+img {
+  height: 50px;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: rgb(235, 12, 12);
+  align-items: center;
+}
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
